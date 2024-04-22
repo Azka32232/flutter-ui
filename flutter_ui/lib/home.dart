@@ -24,7 +24,7 @@ class Home extends StatelessWidget {
                       topLeft: Radius.circular(20),
                       topRight: Radius.circular(20),
                     ),
-                    child: Image.asset("assets/images/orang.jpg")),
+                    child: Image.asset("asset/images/orang.jpeg")),
               ),
             ],
           ),
